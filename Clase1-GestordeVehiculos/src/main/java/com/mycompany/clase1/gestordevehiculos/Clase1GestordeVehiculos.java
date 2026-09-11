@@ -19,7 +19,7 @@ public class Clase1GestordeVehiculos {
         System.out.println("-----------------------------------");
         
         Vehiculo vehiculo2 = new Vehiculo("Hyundai", "DHF345879", miMotor);
-        System.out.println(vehiculo1.toString());
+        System.out.println(vehiculo2.toString());
         System.out.println("Vehiculos creados: " + Vehiculo.getCantidadVehiculos());
         System.out.println("-----------------------------------");
     }
